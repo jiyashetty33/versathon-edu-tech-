@@ -1,2 +1,2 @@
 # versathon-edu-tech-
-hackathon backend development
+hackathon backend and front end  development
